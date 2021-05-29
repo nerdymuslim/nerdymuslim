@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Airbnb for halal homes]. The code will be shared here once i am done. Stacks to be used will be MERN (i am coming from a LAMP stack so it is a totally new path for me so the code may not be the best practice)[website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and throw out more open source project here on github
+- 🥅 2021 Goals: Contribute more to Open Source projects and throw out more open source project here on github
 - ⚡ Fun fact: I love to watch movies and hang out with my family and friends.
 
 ### Connect with me:
