@@ -1,14 +1,15 @@
-### Hi there, I'm Elias - aka [NerdyMuslim][website] 👋
+### Hi there, I'm Elias Durosinmi [website] 👋
 
-## I'm a Husband, Father, Developer,Robotics STEM instructor and Teacher!
+## I'm a Husband, Father, AI/DS/ML @Makerspace 
 
-- 🔭 I’m currently working on a [Airbnb for halal homes]. The code will be shared here once i am done. Stacks to be used will be MERN (i am coming from a LAMP stack so it is a totally new path for me so the code may not be the best practice)[website]!
+- 🔭 I am a Lead Instructor at Makerspace Learning Systems, a leading provider of data and AI education in Nigeria. With over 15 years of experience in software engineering, engineering management, and data science, I am passionate about delivering innovative solutions that enhance technical systems and processes.
+
+At Makerspace NG, I specialize in teaching data analytics, data science, and machine learning to students who want to succeed in the ever-evolving world of data. I have a strong proficiency in a variety of tools and technologies, including Python for AI, Alteryx, Tableau,PowerBI, SQL, AWS Quicksight, AWS Sagemaker, and LookerML, and I enjoy sharing my knowledge and expertise with others. My goal is to empower students with the skills and tools necessary to solve real-world problems using data and AI. I also hold a post-graduate degree in data science and business analytics, and a CHRMP certification in HR analytics.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and throw out more open source project here on github
+- 🥅 2024 Goals: Contribute more to Open Source projects and work with more LLM tools. I am getting my hand dirty in mistral AI
 - ⚡ Fun fact: I love to watch movies and hang out with my family and friends.
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="Nerdymuslim" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Nerdymuslim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,35 +18,15 @@
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][reactplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
+### Languages and Tools
+PostgreSQL · Machine Learning · Tableau · AWS SageMaker · Pandas · SQL
+VoiceFlow,BotPress, StackAI, Zapier, WhatsApp, OpenAI ChatGPT, Salesforce CRM Analytics · PostgreSQL · Machine Learning · Tableau · AWS SageMaker · Pandas · SQL 
 ---
 
 ---
 
-[website]: https://nerdymuslim.com
-[twitter]: https://twitter.com/dowexworld
+[website]: https://eliasdurosinmi.com
 [instagram]: https://instagram.com/nerdymuslim_tech
-[linkedin]: https://linkedin.com/in/eliasdurosinmi
 [webdevplaylist]: https://www.eliasdurosinmi.com
 [jsplaylist]: https://www.eliasdurosinmi.com
 [cssplaylist]: https://www.eliasdurosinmi.com
