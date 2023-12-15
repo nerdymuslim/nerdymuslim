@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Elias Durosinmi [linkedin] 👋
 
-## I'm a Husband, Father, AI/DS/ML @Makerspace 
+## I'm a Husband, Father, Artificial Intelligence(AI) /Data scientist(DS)/Machine Learning(ML) Engineer and MLOps  @Makerspace 
 
 - 🔭 I am a Lead Instructor at Makerspace Learning Systems, a leading provider of data and AI education in Nigeria. With over 15 years of experience in software engineering, engineering management, and data science, I am passionate about delivering innovative solutions that enhance technical systems and processes.
 
