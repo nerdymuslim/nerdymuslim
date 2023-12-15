@@ -1,5 +1,5 @@
 
-### Hi there, I'm Elias Durosinmi [website] 👋
+### Hi there, I'm Elias Durosinmi [linkedin] 👋
 
 ## I'm a Husband, Father, AI/DS/ML @Makerspace 
 
@@ -20,7 +20,7 @@ VoiceFlow,BotPress, StackAI, Zapier, WhatsApp, OpenAI ChatGPT, Salesforce CRM An
 
 [website]: https://eliasdurosinmi.com
 [instagram]: https://instagram.com/nerdymuslim_tech
-[webdevplaylist]: https://www.eliasdurosinmi.com
+[linkedin]: https://www.linkedin.com/eliasdurosinmi
 [jsplaylist]: https://www.eliasdurosinmi.com
 [cssplaylist]: https://www.eliasdurosinmi.com
 [reactplaylist]: https://www.eliasdurosinmi.com
